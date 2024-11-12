@@ -1,7 +1,7 @@
 ### KPI's Vendas
 Este é um pequeno exemplo de KPIs para análise de vendas. Utilizei o Plotly para exibir alguns gráficos e incluí os códigos SQL responsáveis pelas consultas, juntamente com os códigos do Plotly para a visualização.
 As KPIs apresentadas são:
-    • ""`Top 5 Clientes  e seus Top 5 Produtos`": Esta métrica identifica os cinco principais clientes, com base no valor ou na frequência de compras, e lista os cinco produtos que esses clientes mais compram. Esse insight ajuda a personalizar ofertas e compreender melhor as preferências dos principais clientes.
+    • `Top 5 Clientes  e seus Top 5 Produtos`: Esta métrica identifica os cinco principais clientes, com base no valor ou na frequência de compras, e lista os cinco produtos que esses clientes mais compram. Esse insight ajuda a personalizar ofertas e compreender melhor as preferências dos principais clientes.
     • "Quantidade de Vendas por Hora": Mostra o número de vendas realizadas em diferentes horas do dia. Essa visualização ajuda a entender o comportamento das vendas ao longo de um período de 24 horas, permitindo identificar os horários de maior e menor atividade.
     • "Meios de Pagamento mais utilizados": Compara as diferentes formas de pagamento que os consumidores escolhem ao realizar compras. Essa análise pode ajudar a ajustar as opções de pagamento, melhorar a experiência de compra e até mesmo identificar oportunidades de otimização, como a introdução de novas tecnologias ou serviços de pagamento.
     • "Top 10 Produtos mais vendidos": Lista os dez produtos mais populares e frequentemente comprados pelos clientes. Essa análise é essencial para identificar quais produtos têm o maior volume de vendas ou geram mais receita, facilitando decisões sobre estoque e promoções.
