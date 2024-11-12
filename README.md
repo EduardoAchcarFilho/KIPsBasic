@@ -12,9 +12,11 @@ As KPIs apresentadas são:
     
     •`Top 6 Categorias mais rentáveis`: Identifica as seis categorias de produtos ou serviços que geram mais lucro para a empresa. Essas categorias são as mais lucrativas e têm um impacto significativo nas finanças, seja pelo alto volume de vendas ou pelas margens de lucro elevadas.
     
+![Capturar](https://github.com/user-attachments/assets/6cb34853-0340-4aa0-99bc-32083a4c8929)
+
 Na página seguinte, criei uma segmentação de clientes utilizando o algoritmo K-Means para realizar o agrupamento com base na frequência de compra e no valor gasto pelos clientes. A partir das médias das características de cada grupo, foi possível criar uma interpretação dos segmentos, classificando-os como: Clientes VIP, Clientes com Baixa Frequência e Clientes Inativos.
 Essas informações são usadas para fornecer insights sobre o comportamento dos clientes , neste caso aqui elaborei um exemplo de como trabalhar em conjunto com outros setores,  usei o setor de Marketing,
 Deixei exemplos de ações específicas que seriam tomadas para os diferentes segmentos, no caso aqui para criar campanhas focadas em fidelização ou reativação de clientes inativos. 
-Tudo isso é exibido por meio de gráficos, tabelas e textos interativos no Streamlit. 
-![Capturar](https://github.com/user-attachments/assets/6cb34853-0340-4aa0-99bc-32083a4c8929)
+Tudo isso é exibido por meio de gráficos, tabelas e textos interativos no Streamlit.
+
 ![Capturar1](https://github.com/user-attachments/assets/83795a7f-49dd-4e1b-97c9-3cb92c45c5c1)
